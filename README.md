@@ -14,7 +14,7 @@ for the expected impact and the methodology behind it.
 
 The plugin is available for purchase.
 
-* Telegram: https://t.me/sekiac
+* [Telegram](https://t.me/sekiac)
 * Discord: @ca4h
 * Test server (available upon request)
 * Screenshots (available upon request)
