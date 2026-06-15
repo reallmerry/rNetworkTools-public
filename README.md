@@ -5,7 +5,7 @@ packet traffic and lowering network overhead through **real** packet optimizatio
 
 Unlike many optimization plugins, rNetworkTools uses **honest metrics and measurable
 optimizations** — no fake statistics and no unrealistic performance claims. Every number
-shown in-game is measured from the actual packet stream. See [BENCHMARK.md](BENCHMARK.md)
+shown in-game is measured from the actual packet stream. See [BENCHMARKS.md](BENCHMARKS.md)
 for the expected impact and the methodology behind it.
 
 ---
