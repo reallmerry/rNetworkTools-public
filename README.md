@@ -8,6 +8,7 @@ optimizations** — no fake statistics and no unrealistic performance claims. Ev
 shown in-game is measured from the actual packet stream. See [BENCHMARKS.md](BENCHMARKS.md)
 for the expected impact and the methodology behind it.
 
+![views](https://visitor-badge.laobi.icu/badge?page_id=reallmerry.rNetworkTools-public)
 ---
 
 ## Purchase & Contact
